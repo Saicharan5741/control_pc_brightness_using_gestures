@@ -46,5 +46,4 @@ Adjust camera brightness by moving your hand closer or farther apart.
 Contributing
 Contributions are welcome! Feel free to open issues or pull requests.
 
-License
-This project is licensed under the MIT License.
+
